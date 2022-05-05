@@ -1,0 +1,30 @@
+body {
+    width: 90%;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+}
+.bold {
+    font-weight: bold;
+}
+.text {
+    font-size: 20px;
+}
+#sectionLeft {
+    width: 30%;
+    height: 930px;
+    float: left;
+    padding: 2%;
+    background-color: #565656;
+    color: #D3D3D3;
+}
+#sectionRight {
+    width: 62%;
+    float: right;
+    padding: 2%;
+}
+#imgLinkedin {
+    max-width: 60px;
+    max-height: 40px;
+    width: auto;
+    height: auto;
+}
