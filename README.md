@@ -1,5 +1,5 @@
 # Atividade Desenvolvimento para Internet
-Desenvolver usando html e css um curriculo
+Desenvolver currículo usando html e css um curriculo
 
 ## Imagens aplicação (Browser)
 
